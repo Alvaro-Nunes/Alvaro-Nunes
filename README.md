@@ -15,3 +15,8 @@ My name is Álvaro and I am currently learning to program. 📡
 - ⚙️ I use daily:  `.html`, `.css`, `.js`.
 - 💬 Ask me about everything
 - 📚 Studying Computer science for internet
+
+##
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Nunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
