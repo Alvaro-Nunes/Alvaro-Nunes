@@ -21,5 +21,3 @@ My name is Álvaro and I am currently learning to program. 📡
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Nunes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-:br:
